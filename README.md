@@ -4,8 +4,7 @@ I am Jahanvi S Adhav
 
 Course:-BCA(Dual)
 
-Year:- SY   
-Sem-III
+Year:- SY   Sem-III
 
 From:- GLS University
 
